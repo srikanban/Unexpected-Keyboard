@@ -10,13 +10,13 @@
     <key              width="0.9" key0="ಹ" key1="ಶ" key2="ಳ" key3="ಸ"  key4="ಷ"/>
   </row>
   <row>
-    <key shift="0.35" width="0.9" key0="ा" key1="अ" key2="आ"/>
-    <key              width="0.9" key0="ि" key1="इ"/>
-    <key              width="0.9" key0="ी" key1="ई"/>
-    <key              width="0.9" key0="ु" key1="उ" key2="ऊ" key4="ू"/>
-    <key              width="0.9" key0="े" key1="ए" key2="ऋ" key4="ृ"/>
-    <key              width="0.9" key0="ै" key1="ऐ" key2="ऌ" key4="ॢ"/>
-    <key              width="0.9" key0="ो" key1="ओ" key2="औ" key4="ौ"/>
+    <key shift="0.35" width="0.9" key0="ಾ" key1="ಅ" key2="ಆ"/>
+    <key              width="0.9" key0="ಿ" key1="ಇ"/>
+    <key              width="0.9" key0="ೀ" key1="ಈ"/>
+    <key              width="0.9" key0="ು" key1="ಉ" key2="ಊ" key4="ೂ"/>
+    <key              width="0.9" key0="ೇ" key1="ಏ" key2="ಋ" key4="ೃ"/>
+    <key              width="0.9" key0="ೈ" key1="ಐ" key2="ಌ" key4="ೢ"/>
+    <key              width="0.9" key0="ೋ" key1="ಓ" key2="ಔ" key4="ೌ"/>
   </row>
   <row>
     <key key0="्" key2="*" key4="\@"/>
