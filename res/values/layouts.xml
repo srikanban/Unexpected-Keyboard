@@ -16,6 +16,7 @@
     <item>armenian_ph_am</item>
     <item>beng_national</item>
     <item>beng_provat</item>
+    <item>cyrl_jcuken_kk</item>
     <item>cyrl_jcuken_ru</item>
     <item>cyrl_jcuken_uk</item>
     <item>cyrl_lynyertz_sr</item>
@@ -32,6 +33,7 @@
     <item>hang_dubeolsik_kr</item>
     <item>hebr_1_il</item>
     <item>hebr_2_il</item>
+    <item>kann_kannada</item>
     <item>latn_azerty_be</item>
     <item>latn_azerty_fr</item>
     <item>latn_bepo_fr</item>
@@ -41,9 +43,12 @@
     <item>latn_qwerty_cz</item>
     <item>latn_qwerty_da</item>
     <item>latn_qwerty_es</item>
+    <item>latn_qwerty_ga</item>
     <item>latn_qwerty_gb</item>
+    <item>latn_qwerty_haw</item>
     <item>latn_qwerty_hu</item>
     <item>latn_qwerty_jp</item>
+    <item>latn_qwerty_kk</item>
     <item>latn_qwerty_lv</item>
     <item>latn_qwerty_no</item>
     <item>latn_qwerty_pl</item>
@@ -82,6 +87,7 @@
     <item>Armenian</item>
     <item>বাংলা (জাতীয়)</item>
     <item>বাংলা (প্রভাত)</item>
+    <item>ЙЦУКЕН (Қазақша)</item>
     <item>ЙЦУКЕН (Русский)</item>
     <item>ЙЦУКЕН (Українська)</item>
     <item>ЉЊЕРТЗ (Српски)</item>
@@ -98,6 +104,7 @@
     <item>두벌식 (Korean)</item>
     <item>Hebrew 1</item>
     <item>Hebrew 2</item>
+    <item>ಕನ್ನಡ</item>
     <item>AZERTY (Belgian)</item>
     <item>AZERTY (Français)</item>
     <item>BEPO (Français)</item>
@@ -107,9 +114,12 @@
     <item>QWERTY (Czech)</item>
     <item>QWERTY (Danish)</item>
     <item>QWERTY (Español)</item>
+    <item>QWERTY (Irish)</item>
     <item>QWERTY (UK)</item>
+    <item>QWERTY (Hawaiian)</item>
     <item>QWERTY (Magyar)</item>
     <item>QWERTY (Japan)</item>
+    <item>QWERTY (Qazaqşa)</item>
     <item>QWERTY (Latvian)</item>
     <item>QWERTY (Norwegian)</item>
     <item>QWERTY (Polski)</item>
@@ -148,6 +158,7 @@
     <item>@xml/armenian_ph_am</item>
     <item>@xml/beng_national</item>
     <item>@xml/beng_provat</item>
+    <item>@xml/cyrl_jcuken_kk</item>
     <item>@xml/cyrl_jcuken_ru</item>
     <item>@xml/cyrl_jcuken_uk</item>
     <item>@xml/cyrl_lynyertz_sr</item>
@@ -164,6 +175,7 @@
     <item>@xml/hang_dubeolsik_kr</item>
     <item>@xml/hebr_1_il</item>
     <item>@xml/hebr_2_il</item>
+    <item>@xml/kann_kannada</item>
     <item>@xml/latn_azerty_be</item>
     <item>@xml/latn_azerty_fr</item>
     <item>@xml/latn_bepo_fr</item>
@@ -173,9 +185,12 @@
     <item>@xml/latn_qwerty_cz</item>
     <item>@xml/latn_qwerty_da</item>
     <item>@xml/latn_qwerty_es</item>
+    <item>@xml/latn_qwerty_ga</item>
     <item>@xml/latn_qwerty_gb</item>
+    <item>@xml/latn_qwerty_haw</item>
     <item>@xml/latn_qwerty_hu</item>
     <item>@xml/latn_qwerty_jp</item>
+    <item>@xml/latn_qwerty_kk</item>
     <item>@xml/latn_qwerty_lv</item>
     <item>@xml/latn_qwerty_no</item>
     <item>@xml/latn_qwerty_pl</item>
