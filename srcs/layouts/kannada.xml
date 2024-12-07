@@ -19,8 +19,8 @@
     <key key0="ೋ" key1="ಓ" key2="ಔ" key4="ೌ"/>
   </row>
   <row>
-    <key key0="್" key1="\#" key2="\@" key4="*"/>
-    <key key0="ಂ" key1="₹" key2="\\" key4="/" key5="(" key6=")" key7="&amp;" key8="ೲ"/>
+    <key key0="್"/>
+    <key key0="ಂ" key1="₹" key2="\@" key5="(" key6=")" key7="&amp;" key8="ೲ"/>
     <key key0="ಃ" key1="ॐ" key2="ಽ" key7="卐" key8="಼"/>
     <key key0="।" key1="'" key2="&quot;" key3="!" key4="\?" key5="ೱ" key6="॥" key7="." key8=","/>
     <key key0="೦" key1="॰" key2="०" key3="-" key4="॒" key5=":" key6=";" key7="∪" key8="•"/>
