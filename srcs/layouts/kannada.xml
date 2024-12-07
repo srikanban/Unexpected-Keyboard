@@ -11,9 +11,9 @@
   </row>
   <row>
     <key shift="0.35" width="0.9" key0="ಾ" key1="ಅ" key2="ಆ"/>
-    <key              width="0.9" key0="ಿ" key1="ಇ"/>
-    <key              width="0.9" key0="ೀ" key1="ಈ"/>
+    <key              width="0.9" key0="◌ಿ" key1="ಇ" key2="ಈ" key4="ೀ"/>
     <key              width="0.9" key0="ು" key1="ಉ" key2="ಊ" key4="ೂ"/>
+    <key              width="0.9" />
     <key              width="0.9" key0="ೇ" key1="ಏ" key2="ಋ" key4="ೃ"/>
     <key              width="0.9" key0="ೈ" key1="ಐ" key2="ಌ" key4="ೢ"/>
     <key              width="0.9" key0="ೋ" key1="ಓ" key2="ಔ" key4="ೌ"/>
